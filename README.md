@@ -1,4 +1,4 @@
-Data Analysis on CSV Files(sales of product & region)
+ Data Analysis on CSV Files(sales of product & region)
 This guide shows a clear, step-by-step process to read the three CSV files you provided, validate them, compute summaries and checks (roll-ups by product and region), and produce simple visual outputs. The sample code uses Python with pandas and matplotlib/seaborn and is ready to run as a single script or in a notebook.
 
 Required libraries and files
